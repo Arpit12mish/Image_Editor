@@ -1,4 +1,4 @@
-Deploy Link : https://image-editor-kmvh.onrender.com/
+Deploy Link : https://image-editor-kmvh.onrender.com/   (May take some time in loading.)
 
 FEATURES:-
 1) Browse to upload an image.
